@@ -45,7 +45,8 @@ Functions can process data input and output a value using the *return* keyword.
   return numA + numB
 }
 const total = addNums(2, 4);
-console.log(total)``` // Expected value: 6
+console.log(total) // Expected value: 6
+```
 
 For more information on [functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) and how they are used in JS, check out the MDN docs. 
 
