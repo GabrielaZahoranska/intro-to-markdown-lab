@@ -1,6 +1,6 @@
 # How to Make a Pizza
 
-![Homemade Pizza](https://images.unsplash.com/photo-1601924582971-c9d4c0b8f4be?auto=format&fit=crop&q=80&w=1631&ixlib=rb-4.0.3)
+![Homemade Pizza](https://plus.unsplash.com/premium_photo-1673439304183-8840bd0dc1bf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687)
 
 This guide walks through every step, from dough to slice.
 
